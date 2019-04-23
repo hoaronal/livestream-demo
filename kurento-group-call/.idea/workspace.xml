@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9196bb6b-9840-46ec-8d4b-ff11a0e6951b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_6_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kms_api_core_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kms_api_elements_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kms_api_filters_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_commons_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_jsonrpc_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_utils_js_6_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_bootstrap_3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_demo_console_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_ekko_lightbox_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_jquery_1_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_webrtc_adapter_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_0_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurento-group-call.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_google_guava_guava_23_6_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_commons_commons_compress_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kms_api_core_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kms_api_elements_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kms_api_filters_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kurento_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kurento_commons_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kurento_jsonrpc_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_kurento_kurento_utils_js_6_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_bower_bootstrap_3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_bower_demo_console_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_bower_ekko_lightbox_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_bower_jquery_1_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_bower_webrtc_adapter_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_webjars_locator_0_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2many-call/kurento-one2many-call.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_google_guava_guava_23_6_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_commons_commons_compress_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kms_api_core_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kms_api_elements_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kms_api_filters_6_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kurento_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kurento_commons_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kurento_jsonrpc_client_6_10_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_kurento_kurento_utils_js_6_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_bower_bootstrap_3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_bower_demo_console_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_bower_ekko_lightbox_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_bower_jquery_1_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_bower_webrtc_adapter_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_draggabilly_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_webjars_locator_0_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/kurento-one2one-call-advanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kurento-one2many-call/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../kurento-one2many-call/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kurento-one2many-call/src/main/resources/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../kurento-one2many-call/src/main/resources/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kurento-one2one-call-advanced/src/assembly/bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/CallHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kurento-one2one-call-advanced/src/main/java/org/kurento/tutorial/one2onecalladv/CallHandler.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="149961875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Agora_Signaling_Server_SDK_Java_1_4_0_beta/Agora_Signaling_Server_SDK_Java/samples/Agora-Signaling-Tutorial-Java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/crawler4j" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/crawler4j/crawler4j-examples/crawler4j-examples-base" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/crawler4j/crawler4j-examples/crawler4j-examples-postgres" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Signaling/Agora-Signaling-Tutorial-Java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spring-boot-completablefuture" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1751" />
+    <option name="y" value="-4" />
+    <option name="width" value="1861" />
+    <option name="height" value="1029" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assembly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupcall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurento-group-call" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurento-group-call" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GroupCallApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kurento-group-call" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kurento.tutorial.groupcall.GroupCallApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9196bb6b-9840-46ec-8d4b-ff11a0e6951b" name="Default Changelist" comment="" />
+      <created>1555984257617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555984257617</updated>
+      <workItem from="1555984259092" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="255000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1973" y="24" width="1867" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
